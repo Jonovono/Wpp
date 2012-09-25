@@ -3,64 +3,102 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Tobeweb by Jonovono</title>
-
+    <title>Is it time for a new World Wide Web? by Jonovono</title>
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/main.js"></script>
     <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
   </head>
   <body>
-    <div class="wrapper">
+
       <header>
-        <h1>Tobeweb</h1>
-        <p>The Next WWW</p>
-
-        <p class="view"><a href="https://github.com/Jonovono/TOBEWEB">View the Project on GitHub <small>Jonovono/TOBEWEB</small></a></p>
-
-
-        <ul>
-          <li><a href="https://github.com/Jonovono/TOBEWEB/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/Jonovono/TOBEWEB/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/Jonovono/TOBEWEB">View On <strong>GitHub</strong></a></li>
-        </ul>
+        <h1>Is it time for a new World Wide Web?</h1>
+        <p></p>
       </header>
+
+      <div id="banner">
+        <span id="logo"></span>
+
+        <a href="https://github.com/Jonovono/TOBEWEB" class="button fork"><strong>View On GitHub</strong></a>
+        <div class="downloads">
+          <span>Downloads:</span>
+          <ul>
+            <li><a href="https://github.com/Jonovono/TOBEWEB/zipball/master" class="button">ZIP</a></li>
+            <li><a href="https://github.com/Jonovono/TOBEWEB/tarball/master" class="button">TAR</a></li>
+          </ul>
+        </div>
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
       <section>
-        <h3>Welcome to GitHub Pages.</h3>
+        <h1>The World Wide Web</h1>
 
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
+<h3>The WWW went live ~ 1990. Since then lots has changed, and the web/internet is being used in ways that would never have been imagined back then. Knowing what we know now, how would you re-design the WWW?</h3>
 
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
+<blockquote>
+<p>Disclaimer: This is entirely a thought experiment, there is no 
+code yet. Also, I am in no way an expert on these
+topics - just someone that is interested in working on something
+that is exciting and makes improvements to the things I use. I
+want to hear from anyone that has opinions on the subject. 
+If I am wrong/mistaken about something, please let me know! --</p>
+</blockquote>
 
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
+<h3>Problems</h3>
 
-<h3>Designer Templates</h3>
+<p>Here I will identify some of the problems currently. Obviously some would not directly be fixed by re-imagining the web.</p>
 
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
+<ul>
+<li>Piracy</li>
+<li>Payment (paying for things sucks. Whether on mobile, on the browser, or in real life). I think this is related to piracy as well.</li>
+<li>Privacy </li>
+<li>Owning data</li>
+<li>Decentralization</li>
+<li>Logging in / Signing up / Having multiple accounts on websites = a huge pain</li>
+<li>Portability: HTML/CSS etc vs Flash vs whatever. Will it work on mobile? Does it work on this browser? There has to be a better method for this</li>
+<li>Semantic Web (This is taking way too long)</li>
+<li>Spam (related: typing CAPTCHAs)</li>
+<li>Communication: (We need a way for devices to start communicating. I want to be able to talk to my fridge).</li>
+<li>Domains: WWW, HTTP, .COM, Domain squatters, having to actually buy a domain name, we still use <a href="http://www">www</a>. etc. </li>
+</ul><p>Now I am a relatively new Web user. So I am sure there many other things that are annoying and could be improved, or that are deeper than the ones I have mentioned. But there seems to be so many things that could be improved. I don't know if the answer is to continue building on top of the web or think of an alternative solution. </p>
 
-<h3>Rather Drive Stick?</h3>
+<p>In the following sections I will throw down some ideas for an alternate WWW that would be fairly well rounded, if possible to implement, in hopes that it addresses and improves upon the issues mentioned above. Of course, I want to hear your ideas as well! </p>
 
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
+<h2>Proposal</h2>
 
-<h3>Authors and Contributors</h3>
+<p>Alright, lets begin. Here you will find some random thoughts I have been having. Some likely more realistic / crazy than others.</p>
 
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
+<h3>Background</h3>
 
-<h3>Support or Contact</h3>
+<p><strong>I'm just getting frustrated:</strong>
+When companies can persuade the 'removal' of websites, when you can not transfer your tweets/friends to another service etc, logging in to websites and creating multiple accounts for services is a pain (this email has already been used), when people are against spending 99 cents on an iPhone app and piracy is rapant, when privacy is not something being considered deeply with many companies, when you don't own your data it might not be put to interesting use so historians can analyze it, when top search results are dominated by people that have gamed the algorithm and more so when there are 1000000000 results for the query 'who is the author of some book'. </p>
 
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
+<p>When all this is true, and much more, I think it is time to re imagine the WWW and how we can use the internet to share and display data, communicate with our friends, conduct transactions, and essentually conduct our lives in a virtual way. Since more and more things are done on the internet (not even so much on the web anymore!) I think it is time to reimagine how it can be used knowing what we know now after using the internet for so long. When the Web was made none of this was predicted, but we still have to do things for the most part how they were imagined back then.</p>
+
+<h3>Piracy</h3>
+
+<p>I'm not sure all the reasons why this is so big. How it became so comfortable for someone (I am guilty of this too) to download a movie, but would never steal (yes copyright infringement is not theft) something physical. I am of the party that believes that is of the most part a service problem. There are things online I have paid for that I could have gotten for free, but the service it offers is of value (this website being one of them). On this, there is not so much a new Web could do to solve this. However, I think another aspect of piracy is that it is a pain to pay online. It is much easier to torrent than to have to type in a bunch of CC information every time you want to purchase something. This does not include the people that don't have CC's, are too young to get one, etc. I think having a currency that encourages spending, is completely digital, and most importantly simple to perform payments with could help some of these problems. This will be discussed next.</p>
+
+<h3>Payments</h3>
+
+<p>Paying for things is annoying. Way too much friction. Online and in life. One project that I find interesting that is, I believe, making exchanging money easier is <a href="http://en.wikipedia.org/wiki/Bitcoin">Bitcoin</a> project. A decentralized, distributed, anonymous, digital currency. </p>
+
+<h3>Owning Data</h3>
       </section>
       <footer>
-        <p>This project is maintained by <a href="https://github.com/Jonovono">Jonovono</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p>Project maintained by <a href="https://github.com/Jonovono">Jonovono</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="http://twitter.com/#!/michigangraham">mattgraham</a></small></p>
       </footer>
     </div>
-    <script src="javascripts/scale.fix.js"></script>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
   </body>
 </html>
