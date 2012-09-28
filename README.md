@@ -98,10 +98,10 @@ I want to be able to type in "Schools in Canada that offer a dual degree in Comp
 
 Some interesting discussions/articles on this topic:
 
-[Why I hate search](http://news.ycombinator.com/item?id=3801956).
-[Ask HN: do you feel Google search result quality has gone down?](http://news.ycombinator.com/item?id=902999).
-[What I Want in My New Google](http://techcrunch.com/2011/02/19/what-i-want-in-my-new-google/).
-[Things Not Strings -- Google Launches Knowledge Graph](http://news.ycombinator.com/item?id=3982887)
+*[Why I hate search](http://news.ycombinator.com/item?id=3801956).
+*[Ask HN: do you feel Google search result quality has gone down?](http://news.ycombinator.com/item?id=902999).
+*[What I Want in My New Google](http://techcrunch.com/2011/02/19/what-i-want-in-my-new-google/).
+*[Things Not Strings -- Google Launches Knowledge Graph](http://news.ycombinator.com/item?id=3982887)
 
 ## Spam 
 So much of the internet is junk. I don't even think it would take that much time to transfer the Web to a better system, we'd need maybe 20 websites :p. Search engine results are only decent. I don't think we will really see much improvement until something like the Semantic Web is realized. Google is making attempts. I type in "who wrote 1984" and it tells me the answer, along with a billion other links. YAY! Many of which are identical. Can we apply DRY to the entire WWW? Furthermore, how many people have "Wedding Crashers" saved on their computer. Is there a streaming P2P system? That is the exciting thing about the cloud. As long as streaming is fast, and always connected to the internet (basically here) you don't have to download anything!
