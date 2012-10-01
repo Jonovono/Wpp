@@ -132,7 +132,6 @@ I have been reading recently about [Project Xanadu](http://en.wikipedia.org/wiki
 "Its founding principle is that a communication network should allow a user to focus on the data he or she needs, rather than having to reference a specific, physical location where that data is to be retrieved from.": [Content-centric networking](http://en.wikipedia.org/wiki/Content-centric_networking). So something like this could perhaps be used for a new way instead of having to use HTTP://, www etc.
 
 [Content addressable network](http://en.wikipedia.org/wiki/Content_addressable_network).
-[Tapestry](http://en.wikipedia.org/wiki/Tapestry_(DHT)).
 
 ## Altogether Now
 So I have outlined some of the annoying things about the Web and provided a few suggestions here and there. In this section I want to just write a bit about what I see being the 'future' and how in a nutshell these things could be brought together for a all around solution. 
