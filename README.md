@@ -14,9 +14,9 @@ There has been some interesting initiatives lately to transform the WWW and how 
 However, I wonder if adding these to the current implementation of the World Wide Web is the best thing to do. There are many things that could be improved about the web so even after one is fixed we are still left with other problems that still need to be addressed. What I propose is an alternative to the current WWW. In a few bullet points this is what I see right now (if you are interested read the rest to hopefully get a better understanding!):
 
 * Users would be required to download a new browser, like Tor. 
-** Bundled in this would be your Tent server that is easily configurable, if a digital currency was used your Bitcoin/whatever wallet, and other things. I'd like to have Tent (or something like it) built into it from the start. 
-** Any sites built on this network would just connect to that (kind of like FB connect but decentralized).
-** I don't know if this would be easier than convincing new websites on the current Web to start using Tent or not, but my hope is that since we could re-design this network we could make it more exciting for developers to develop on than the current implementation. 
+    * Bundled in this would be your Tent server that is easily configurable, if a digital currency was used your Bitcoin/whatever wallet, and other things. I'd like to have Tent (or something like it) built into it from the start. 
+    * Any sites built on this network would just connect to that (kind of like FB connect but decentralized).
+    * I don't know if this would be easier than convincing new websites on the current Web to start using Tent or not, but my hope is that since we could re-design this network we could make it more exciting for developers to develop on than the current implementation. 
 
 * The DOM and use of Javascript/HTML/CSS etc could be analysed. What's a better way? What could be improved? I would like to have a much better way to develop apps that work well cross platform.
 
@@ -175,13 +175,17 @@ I know this just looks like a bunch of complaining with no solutions. The Web is
 
 Hope you enjoyed reading it!
 
-## Where Next?
+## What Next?
 I would really like to explore this further. I am currently in school, but done in December. After that I am looking to start working on interesting things and learning more everyday. I hope with this I can meet some interesting people that are doing fascinating things. I think this would be an interesting project to work on, but it is not something I am able to do alone with my current expertise. So if you are interested please message me, and we can talk further, and if it gets to the point where it is better thought out and a plan is ready, it could be a neat project to put on Kickstarter, or Selfstarter!
+
+---------------------------------------
 
 ## CONTACT
 You can email me at: me@jonovono.com or send me a tweet at [@Jonovono](https://twitter.com/Jonovono).
 
 If you are interested in talking about this further, have ideas/questions/extra information, please contact me!
+
+---------------------------------------
 
 # Interesting Projects / Related Projects / etc
 Here is just a list of some of the stuff I have talked about and other projects that are doing a lot. Just a nice reference that I will keep updated.
@@ -199,16 +203,16 @@ Here is just a list of some of the stuff I have talked about and other projects 
 * [Why is p2p web hosting not widely used?](http://stackoverflow.com/questions/737560/why-is-p2p-web-hosting-not-widely-used)
 * [Google Chrome Web server](https://github.com/GoogleChrome/chrome-app-samples/tree/master/webserver) Have a web server in your browser. Something like this could be useful. 
 * [Distributed Social Network](https://github.com/gelnior/newebe).
-* [Use the idle time on your computer to cure diseases, study global warming, discover pulsars, and do many other types of scientific research. It's safe, secure, and easy:](http://boinc.berkeley.edu/).
-* [A new wire protocol enabling applications to connect directly in a real-time and fully distributed manner, freeing them from relying on centralized datacenters](http://www.telehash.org/)
-* [MediaGoblin is a free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc](http://mediagoblin.org/)
-* [Pastry: A distributed hash table in Go](http://news.ycombinator.com/item?id=4676505)
-* [A distributed computing framework for Haskell](https://github.com/jepst/CloudHaskell)
-* [Content Centric P2P network](https://github.com/ssiloti/Anynet)
+* [Boinc](http://boinc.berkeley.edu/): Use the idle time on your computer to cure diseases, study global warming, discover pulsars, and do many other types of scientific research. It's safe, secure, and easy:
+* [Telehash](http://www.telehash.org/): A new wire protocol enabling applications to connect directly in a real-time and fully distributed manner, freeing them from relying on centralized datacenters
+* [MediaGoblin](http://mediagoblin.org/): MediaGoblin is a free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc
+* [Pastry](http://news.ycombinator.com/item?id=4676505): A distributed hash table in Go
+* [CloudHaskell](https://github.com/jepst/CloudHaskell): A distributed computing framework for Haskell
+* [Anynet](https://github.com/ssiloti/Anynet): Content Centric P2P network
 
 ## Social
 * [Tent.io](http://tent.io/) 
-* [Project comparison of some](http://gitorious.org/social/pages/ProjectComparison)
+* [Project comparison of some social projects](http://gitorious.org/social/pages/ProjectComparison)
 
 ## Bitcoin / Digital Currency
 There may be some that do not have a limit on the amount of coins that will be generated.
