@@ -139,8 +139,8 @@ Mobile services have solved this with Apps. Anyone can have an app called 'XYZ'.
 
 One alternative to that is a Content-centric network. "Its founding principle is that a communication network should allow a user to focus on the data he or she needs, rather than having to reference a specific, physical location where that data is to be retrieved from.": [Content-centric networking](http://en.wikipedia.org/wiki/Content-centric_networking). So something like this could perhaps be used for a new way instead of having to use HTTP://, www etc.
 
-[Content addressable network](http://en.wikipedia.org/wiki/Content_addressable_network).
-[Distributed Hash Table](http://en.wikipedia.org/wiki/Distributed_hash_table).
+* [Content addressable network](http://en.wikipedia.org/wiki/Content_addressable_network).
+* [Distributed Hash Table](http://en.wikipedia.org/wiki/Distributed_hash_table).
 
 ## Other interesting things.
 ### Voting Online
