@@ -202,6 +202,7 @@ Here is just a list of some of the stuff I have talked about and other projects 
 * [Freenet](https://freenetproject.org/)
 * [Why is p2p web hosting not widely used?](http://stackoverflow.com/questions/737560/why-is-p2p-web-hosting-not-widely-used)
 * [Google Chrome Web server](https://github.com/GoogleChrome/chrome-app-samples/tree/master/webserver) Have a web server in your browser. Something like this could be useful. 
+* [Browserver](http://news.ycombinator.com/item?id=4366555): A Nodejs HTTP server in your browser.
 * [Distributed Social Network](https://github.com/gelnior/newebe).
 * [Boinc](http://boinc.berkeley.edu/): Use the idle time on your computer to cure diseases, study global warming, discover pulsars, and do many other types of scientific research. It's safe, secure, and easy:
 * [Telehash](http://www.telehash.org/): A new wire protocol enabling applications to connect directly in a real-time and fully distributed manner, freeing them from relying on centralized datacenters
@@ -224,3 +225,5 @@ There may be some that do not have a limit on the amount of coins that will be g
 * [NameCoin](http://dot-bit.org/Main_Page): coinage used as a distributed naiming system blockchain. Their most notable feature is that they can be merged mined with Bitcoins.
 * [TimeCoin](www.timekoin.org): Controlled by time.
 * [Is it possible for a decentralized currency to have untraceable transactions?](http://bitcoin.stackexchange.com/questions/5088/is-it-possible-for-a-decentralized-currency-to-have-untraceable-transactions)
+
+* [Another list of currencies, financial crypto](http://disattention.com/78/digital-currencies-crypto-finance-and-open-source/)
