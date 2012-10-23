@@ -13,7 +13,7 @@ There has been some interesting initiatives lately to transform the WWW and how 
 
 However, I wonder if adding these to the current implementation of the World Wide Web is the best thing to do. There are many things that could be improved about the web so even after one is fixed we are still left with other problems that still need to be addressed. What I propose is an alternative to the current WWW. In a few bullet points this is what I see right now (if you are interested read the rest to hopefully get a better understanding!):
 
-* Users would be required to download a new browser, like Tor. 
+* Users would be required to download a new browser. 
     * Bundled in this would be your Tent server that is easily configurable, if a digital currency was used your Bitcoin/whatever wallet, and other things. I'd like to have Tent (or something like it) built into it from the start. 
     * Any sites built on this network would just connect to that (kind of like FB connect but decentralized).
     * I don't know if this would be easier than convincing new websites on the current Web to start using Tent or not, but my hope is that since we could re-design this network we could make it more exciting for developers to develop on than the current implementation. 
