@@ -8,6 +8,8 @@
 > want to hear from anyone that has opinions or expertise on the subjects I mention. 
 > If I am misguided about something, please let me know! --
 
+---------------------------------------
+
 # Overview / TLDR
 There has been some interesting initiatives lately to transform the WWW and how the internet is used. Tent.io wants to allow you to own your own social data instead of having sites like FB own it so that you are free to transfer it, download it, and more. Bitcoin wants to make a currency that does not have a central authority and spending it is as easy as sending an email. Persona wants to make it much easier to sign up/in on websites. I go into others and these in a little more depth below, but I think all of these are interesting projects that would move the web in a better direction. 
 
@@ -30,6 +32,7 @@ Basically, I'd like to see the entire network re-designed now that we know essen
 
 So hopefully you find this somewhat interesting. And I hope you share any feedback you have here, on HN or emailing me!
  
+---------------------------------------
 
 ## Problems
 Here I will identify some of the problems/annoyances I currently have with the WWW or how the internet is being used.
