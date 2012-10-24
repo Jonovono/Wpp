@@ -9,11 +9,11 @@
 > If I am misguided about something, please let me know! --
 
 # Overview / TLDR
-There has been some interesting initiatives lately to transform the WWW and how the internet is used. Tent.io wants to allow you to own your own social data instead of having sites like FB own it. Bitcoin wants to make a currency that does not have a central authority and spending it is as easy as sending an email. Persona wants to make it much easier to sign up/in on websites. I go into others and these in a little more depth below, but I think all of these are interesting projects that would move the web in a better direction. 
+There has been some interesting initiatives lately to transform the WWW and how the internet is used. Tent.io wants to allow you to own your own social data instead of having sites like FB own it so that you are free to transfer it, download it, and more. Bitcoin wants to make a currency that does not have a central authority and spending it is as easy as sending an email. Persona wants to make it much easier to sign up/in on websites. I go into others and these in a little more depth below, but I think all of these are interesting projects that would move the web in a better direction. 
 
 However, I wonder if adding these to the current implementation of the World Wide Web is the best thing to do. There are many things that could be improved about the web so even after one is fixed we are still left with other problems that still need to be addressed. What I propose is an alternative to the current WWW. In a few bullet points this is what I see right now (if you are interested read the rest to hopefully get a better understanding!):
 
-* Users would be required to download a new browser. 
+* Users would be required to download a new browser (Peer-to-peer, browser). 
     * Bundled in this would be your Tent server that is easily configurable, if a digital currency was used your Bitcoin/whatever wallet, and other things. I'd like to have Tent (or something like it) built into it from the start. 
     * Any sites built on this network would just connect to that (kind of like FB connect but decentralized).
     * I don't know if this would be easier than convincing new websites on the current Web to start using Tent or not, but my hope is that since we could re-design this network we could make it more exciting for developers to develop on than the current implementation. 
@@ -24,7 +24,11 @@ However, I wonder if adding these to the current implementation of the World Wid
 
 * Not necessarily run based off domain names. I think it's time we can do away with domain names. But if that proves to be the best way still, then at least make the DNS decentralized when necessary. 
 
-* There are common things most people use, like sending messages, liking thing, saving pages. Why do I have to go to FB to send someone a cool link. Some of these could be built into the browser. 
+* There are common things most people use, like sending messages, liking thing, saving pages. Why do I have to go to FB to send someone a cool link. Some of these could be built into the browser.
+
+Basically, I'd like to see the entire network re-designed now that we know essentially everything we do goes through the internet and it is being used in ways we could not have for seen. Just like when you join a society there is a money system, you get a passport etc for your identity. Why is the Internet not like that. I understand the web couldn't really break free from the laws of the real world (or could it if decentralized, p2p :p ). But I think it makes sense to include some more basic things into the system for a better experience like the ability to own your data and do with it what you wish, make easy payments, sign up easier, etc. 
+
+So hopefully you find this somewhat interesting. And I hope you share any feedback you have here, on HN or emailing me!
  
 
 ## Problems
