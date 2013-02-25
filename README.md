@@ -230,7 +230,8 @@ There may be some that do not have a limit on the amount of coins that will be g
 * [SolidCoins](http://solidcoin.info/): 2 minute blocks, there isn't a limit on how many coins will be generated, CPU friendly, difficulty is adjusted more often, close-source. 
 * [LiteCoin](http://litecoin.org/): their blocks are generated every 2.5 minutes, and their hashing algorithms are more CPU-friendly (mining with graphic cards doesn't work well with those).
 * [NameCoin](http://dot-bit.org/Main_Page): coinage used as a distributed naiming system blockchain. Their most notable feature is that they can be merged mined with Bitcoins.
-* [TimeCoin](www.timekoin.org): Controlled by time.
+* [TimeKoin](http://www.timekoin.org): Controlled by time.
+* [TimeCoin](http://www.timecoin.net/)
 * [Is it possible for a decentralized currency to have untraceable transactions?](http://bitcoin.stackexchange.com/questions/5088/is-it-possible-for-a-decentralized-currency-to-have-untraceable-transactions)
 
 * [Another list of currencies, financial crypto](http://disattention.com/78/digital-currencies-crypto-finance-and-open-source/)
